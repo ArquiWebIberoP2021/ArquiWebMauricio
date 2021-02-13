@@ -5,6 +5,13 @@
 //  Creado por Mauricio de Garay el 27/01/2021.
 //
 
+/*
+* TODO: Ponerles un choro para explicar esto.
+*
+* FIXME: Mejorar el código utilizando reduce.
+*/
+
+
 /* Definición de funciones. */
 
 /*
